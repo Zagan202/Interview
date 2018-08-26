@@ -16,7 +16,7 @@ It's a work in progress.
 ## Table of Contents
 
 - [What is it?](#what-is-it)
-- [why?](#why)
+- [Why?](#why)
 - [How to use it](#how-to-use-it)
 - [Prerequisite Knowledge](#prerequisite-knowledge)
 - [The Daily Plan](#the-daily-plan)
