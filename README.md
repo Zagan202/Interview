@@ -1147,8 +1147,7 @@ Have a story, not just data, about something you accomplished.
 - What is the work life like?
 
 ------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
+### EVERYTHING BELOW IS ***OPTIONAL***
 ------------------------------------------------------------
 ## System Design, Scalability, Data Handling
 - **You can expect system design questions if you have 4+ years of experience.**
