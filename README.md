@@ -4,7 +4,7 @@
 ## What is it
 It's pretty much a bastardized version of John Washa's [Coding Interview University](https://github.com/jwasham/coding-interview-university).
 
-I wanted to use his repo as a guide to create a more structuresd approach to studying for technical interviews.
+I wanted to use his repo as a guide to create a more structured approach to studying for technical interviews.
 However, I found it to be a bit overwhelming so I'm *remaking* it to fit my learning style.
 
 It's a work in progress.
