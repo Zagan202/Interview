@@ -9,7 +9,7 @@ However, I found it to be a bit overwhelming so I'm *remaking* it to fit my lear
 
 Its an evolving work in progress.
 
-![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
+![GG](https://media.giphy.com/media/l3979tir6x4dF20j6/giphy.gif)
 
 ---
 
