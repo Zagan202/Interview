@@ -7,7 +7,7 @@ It's pretty much bastardized John Washa's [Coding Interview University](https://
 I wanted to use his repo as a guide to create a more structuresd approach to studying for technical interviews.
 However, I found it to be a bit overwhelming so I'm *remaking* it to fit my learning style.
 
-Its an evolving work in progress.
+It's a work in progress.
 
 ![GG](https://media.giphy.com/media/l3979tir6x4dF20j6/giphy.gif)
 
