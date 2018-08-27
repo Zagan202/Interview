@@ -42,7 +42,8 @@ It's a work in progress.
     - [Augmented Data Structures](#augmented-data-structures)
 - [Algorithms](#algorithms)
     - [Binary search](#binary-search)
-    - [Bitwise operations](#Bitwise-operations)
+    - [Bitwise operations](#bitwise-operations)
+    - [Divide and Conquer](#divide-and-conquer)
     - [String searching & manipulations](#string-searching--manipulations)
     - [Sorting](#sorting)
         - selection
@@ -50,6 +51,7 @@ It's a work in progress.
         - heapsort
         - quicksort
         - merge sort
+    - [Greedy](#greedy)
     - [Network Flows](#network-flows)
     - [Recursion](#recursion)
     - [Dynamic Programming](#dynamic-programming) 
@@ -567,6 +569,10 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 ## Algorithms
 - ## Books
+    - [ ] [Algorithm Design](https://www.amazon.ca/Algorithm-Design-Jon-Kleinberg/dp/0321295358)
+        - Make Dimitris Achlioptas proud
+        - [Solutions](https://github.com/weimin/CS-180/tree/master/Algorithm%20Design%20(Kleinberg%20Tardos%202005)%20-%20Solutions)
+
     - [ ] [Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202) (Skiena)
         - As a review and problem recognition
         - The algorithm catalog portion is well beyond the scope of difficulty you'll get in an interview.
@@ -626,6 +632,20 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [Swap](http://bits.stephan-brumme.com/swap.html)
     - [ ] absolute value:
         - [Absolute Integer](http://bits.stephan-brumme.com/absInteger.html)
+
+- ### Divide and Conquer
+    Some of these topics may be repeated. Doesnt matter much since we're going to be going over this material a lot.
+    - [ ] [Introduction](https://www.geeksforgeeks.org/divide-and-conquer-introduction)
+        - [Intro Pt2](https://www.tutorialspoint.com/data_structures_algorithms/divide_and_conquer.htm)
+        - [Intro Pt3](https://www.youtube.com/watch?v=x78uQu730b0)
+    - [ ] [Binary Search](https://www.geeksforgeeks.org/binary-search/)
+    - [ ] [QuickSort](https://www.geeksforgeeks.org/quick-sort/)
+    - [ ] [Binary Search](https://www.geeksforgeeks.org/binary-search/)
+    - [ ] [Merge Sort](https://www.geeksforgeeks.org/merge-sort/)
+    - [ ] [Closest Pair of Points](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/closepoints.pdf)
+    - [ ] [Strassen’s Matrix Multiplication](https://www.geeksforgeeks.org/strassens-matrix-multiplication/)
+    - [ ] [Cooley-Tukey FFT Algorithms](http://sip.cua.edu/res/docs/courses/ee515/chapter08/ch8-2.pdf)
+    - [ ] [Karatsuba algorithm for fast multiplication](https://www.geeksforgeeks.org/divide-and-conquer-set-2-karatsuba-algorithm-for-fast-multiplication/)
 
 - ### String searching & manipulations
     - [ ] [Sedgewick - Suffix Arrays (video)](https://www.youtube.com/watch?v=HKPrVm5FWvg)
@@ -739,6 +759,26 @@ Graphs can be used to represent many problems in computer science, so this secti
 
     As a summary, here is a visual representation of [15 sorting algorithms](https://www.youtube.com/watch?v=kPRA0W1kECg).
     If you need more detail on this subject, see "Sorting" section in [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
+
+- ### Greedy
+    Some of these topics may be repeated. Doesnt matter much since we're going to be going over this material a lot.
+    - [ ] [Introduction](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/)
+        - [Intro Pt2](https://www.geeksforgeeks.org/greedy-algorithms/)
+    - [ ] Standard Greedy Algorithms
+        - [Huffman Coding](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
+        - [Job Sequencing](https://www.geeksforgeeks.org/job-sequencing-problem-set-1-greedy-algorithm/)
+        - [Water Connection Problem](https://www.geeksforgeeks.org/water-connection-problem/)
+    - [ ] Greedy Algorithms in Graphs
+        - [Kruskal’s Minimum Spanning Tree](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)
+        - [Prim’s Minimum Spanning Tree](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/)
+        - [Dijkstra’s shortest path](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)
+        - [Reverse Delete for MST](https://www.geeksforgeeks.org/reverse-delete-algorithm-minimum-spanning-tree/)
+    - [ ] Greedy Algorithms in Arrays
+        - [Minimum product subset of an array](https://www.geeksforgeeks.org/minimum-product-subset-array/)
+        - [Difference of sums is maximum](https://www.geeksforgeeks.org/partition-into-two-subarrays-of-lengths-k-and-n-k-such-that-the-difference-of-sums-is-maximum/)
+        - [GCD of array a multiple of k](https://www.geeksforgeeks.org/minimum-operations-make-gcd-array-multiple-k/)
+        - [Array element moved by k](https://www.geeksforgeeks.org/array-element-moved-k-using-single-moves/)
+    - [ ] [All of these](https://www.geeksforgeeks.org/top-20-greedy-algorithms-interview-questions/)
 
 - ### Network Flows
     - [ ] [Ford-Fulkerson in 5 minutes — Step by step example (video)](https://www.youtube.com/watch?v=Tl90tNtKvxs)
