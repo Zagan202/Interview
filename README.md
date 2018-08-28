@@ -155,6 +155,7 @@ Maybe try to do this in the order presented but this guide is an ever evolving b
         - This is a short book, but it will give you a great handle on the C language and if you practice it a little
             you'll quickly get proficient. Understanding C helps you understand how programs and memory work.
         - [answers to questions](https://github.com/lekkas/c-algorithms)
+        - [The difference between ANSI C, C99, and C11](https://stackoverflow.com/questions/17206568/what-is-the-difference-between-c-c99-ansi-c-and-gnu-c)
     
     - C++
 
